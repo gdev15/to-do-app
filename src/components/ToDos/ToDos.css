@@ -1,0 +1,43 @@
+.todo-card-title {
+    font-size: 2rem;
+    text-align: left;
+}
+
+.todo-item {
+    font-size: 1.5rem;    
+}
+
+.list-item-text{
+   border: 1px solid rgb(46, 46, 46) !important;
+   font-size: 1.0rem;
+   height: 125px;
+}
+
+button {
+    float:right;
+}
+
+
+
+
+
+/* Accordion button */
+#root > div > div.d-flex.justify-content-center > div > div.accordion > div > div.card-header > button{
+    float:left;
+
+}
+
+
+.search-filter {   
+    width: 25%;   
+    flex-direction: column;
+    
+}
+
+.search-container {
+    display:flex;
+    
+}
+
+
+
